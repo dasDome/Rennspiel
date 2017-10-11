@@ -1,0 +1,17 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\script\EndlessTerrain.cs">
+    <Files>
+      <File FileName="Assets\script\PlayerController.cs" Line="1" Column="1" />
+      <File FileName="Assets\script\EndlessTerrain.cs" Line="244" Column="3" />
+      <File FileName="Assets\script\rotate.cs" Line="1" Column="1" />
+      <File FileName="Assets\script\FuelController.cs" Line="1" Column="1" />
+      <File FileName="Assets\script\sceneController.cs" Line="1" Column="1" />
+      <File FileName="Assets\script\CameraAction.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

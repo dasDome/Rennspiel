@@ -1,0 +1,51 @@
+Initialize engine version: 5.4.2f2 (b7e030c65c9b)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: ATI Radeon HD 5700 Series (ID=0x68b8)
+    Vendor:   ATI
+    VRAM:     1012 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Dominic\Desktop\arbeiten\FH\Mediale Arbeit\Mediale-Arbeit\tut1\prototype1.3_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Dominic\Desktop\arbeiten\FH\Mediale Arbeit\Mediale-Arbeit\tut1\prototype1.3_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Dominic\Desktop\arbeiten\FH\Mediale Arbeit\Mediale-Arbeit\tut1\prototype1.3_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\Dominic\Desktop\arbeiten\FH\Mediale Arbeit\Mediale-Arbeit\tut1\prototype1.3_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\Dominic\Desktop\arbeiten\FH\Mediale Arbeit\Mediale-Arbeit\tut1\prototype1.3_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Dominic\Desktop\arbeiten\FH\Mediale Arbeit\Mediale-Arbeit\tut1\prototype1.3_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Dominic\Desktop\arbeiten\FH\Mediale Arbeit\Mediale-Arbeit\tut1\prototype1.3_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Dominic\Desktop\arbeiten\FH\Mediale Arbeit\Mediale-Arbeit\tut1\prototype1.3_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Dominic\Desktop\arbeiten\FH\Mediale Arbeit\Mediale-Arbeit\tut1\prototype1.3_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Dominic\Desktop\arbeiten\FH\Mediale Arbeit\Mediale-Arbeit\tut1\prototype1.3_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.052 seconds
+Platform assembly: C:\Users\Dominic\Desktop\arbeiten\FH\Mediale Arbeit\Mediale-Arbeit\tut1\prototype1.3_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Dominic\Desktop\arbeiten\FH\Mediale Arbeit\Mediale-Arbeit\tut1\prototype1.3_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 3840x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 13.366618 ms
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 1858 -> priority: 1 
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 8.186946 ms
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 4530.
+Total: 0.991513 ms (FindLiveObjects: 0.199159 ms CreateObjectMapping: 0.081682 ms MarkObjects: 0.679466 ms  DeleteObjects: 0.028757 ms)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 1de8 -> priority: 1 
+  Thread -> id: 1628 -> priority: 1 
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.534774 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 4534.
+Total: 1.235644 ms (FindLiveObjects: 0.285737 ms CreateObjectMapping: 0.116558 ms MarkObjects: 0.779505 ms  DeleteObjects: 0.052925 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.506549 ms
+
+Unloading 45 unused Assets to reduce memory usage. Loaded Objects now: 883.
+Total: 0.919620 ms (FindLiveObjects: 0.092084 ms CreateObjectMapping: 0.062409 ms MarkObjects: 0.291549 ms  DeleteObjects: 0.472659 ms)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 3d4 -> priority: 1 

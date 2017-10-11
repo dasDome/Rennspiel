@@ -1,0 +1,174 @@
+fileFormatVersion: 2
+guid: 982fc29ae7973d3449c83959868fe4b3
+timeCreated: 1482156525
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: baggage_door
+    100002: Car_body_Car_L_glass_Light_glass
+    100004: Car_body_Car_L_small_glass_Small_light_glass_back_back_bumper
+    100006: Car_body_Car_L_small_glass_Small_light_glass_front_front_bumper
+    100008: Car_body_Car_Light_glass_R_glass
+    100010: Car_body_Car_Small_light_glass_back_back_bumper_L_small_glass2
+    100012: Car_body_Car_Small_light_glass_front_front_bumper_L_small_glass1
+    100014: car_body_lp_uv_RetopoGroup1
+    100016: car_left_wheel_lp_uv_RetopoGroup002
+    100018: car_left_wheel_lp_uv_RetopoGroup003
+    100020: car_left_wheel_lp_uv_RetopoGroup004
+    100022: car_left_wheel_lp_uv_RetopoGroup1
+    100024: //RootNode
+    100026: front_window_Windows_Car_body_Car
+    100028: polySurface3_polySurface002
+    100030: polySurface3_polySurface1
+    100032: polySurface5_polySurface4_polySurface002
+    100034: polySurface5_polySurface4_polySurface1
+    100036: Windows_Car_body_Car_back_window
+    100038: Windows_Car_body_Car_left_window_small
+    100040: Windows_Car_body_Car_right_window_small
+    400000: baggage_door
+    400002: Car_body_Car_L_glass_Light_glass
+    400004: Car_body_Car_L_small_glass_Small_light_glass_back_back_bumper
+    400006: Car_body_Car_L_small_glass_Small_light_glass_front_front_bumper
+    400008: Car_body_Car_Light_glass_R_glass
+    400010: Car_body_Car_Small_light_glass_back_back_bumper_L_small_glass2
+    400012: Car_body_Car_Small_light_glass_front_front_bumper_L_small_glass1
+    400014: car_body_lp_uv_RetopoGroup1
+    400016: car_left_wheel_lp_uv_RetopoGroup002
+    400018: car_left_wheel_lp_uv_RetopoGroup003
+    400020: car_left_wheel_lp_uv_RetopoGroup004
+    400022: car_left_wheel_lp_uv_RetopoGroup1
+    400024: //RootNode
+    400026: front_window_Windows_Car_body_Car
+    400028: polySurface3_polySurface002
+    400030: polySurface3_polySurface1
+    400032: polySurface5_polySurface4_polySurface002
+    400034: polySurface5_polySurface4_polySurface1
+    400036: Windows_Car_body_Car_back_window
+    400038: Windows_Car_body_Car_left_window_small
+    400040: Windows_Car_body_Car_right_window_small
+    2300000: baggage_door
+    2300002: Car_body_Car_L_glass_Light_glass
+    2300004: Car_body_Car_L_small_glass_Small_light_glass_back_back_bumper
+    2300006: Car_body_Car_L_small_glass_Small_light_glass_front_front_bumper
+    2300008: Car_body_Car_Light_glass_R_glass
+    2300010: Car_body_Car_Small_light_glass_back_back_bumper_L_small_glass2
+    2300012: Car_body_Car_Small_light_glass_front_front_bumper_L_small_glass1
+    2300014: car_body_lp_uv_RetopoGroup1
+    2300016: car_left_wheel_lp_uv_RetopoGroup002
+    2300018: car_left_wheel_lp_uv_RetopoGroup003
+    2300020: car_left_wheel_lp_uv_RetopoGroup004
+    2300022: car_left_wheel_lp_uv_RetopoGroup1
+    2300024: front_window_Windows_Car_body_Car
+    2300026: polySurface3_polySurface002
+    2300028: polySurface3_polySurface1
+    2300030: polySurface5_polySurface4_polySurface002
+    2300032: polySurface5_polySurface4_polySurface1
+    2300034: Windows_Car_body_Car_back_window
+    2300036: Windows_Car_body_Car_left_window_small
+    2300038: Windows_Car_body_Car_right_window_small
+    3300000: baggage_door
+    3300002: Car_body_Car_L_glass_Light_glass
+    3300004: Car_body_Car_L_small_glass_Small_light_glass_back_back_bumper
+    3300006: Car_body_Car_L_small_glass_Small_light_glass_front_front_bumper
+    3300008: Car_body_Car_Light_glass_R_glass
+    3300010: Car_body_Car_Small_light_glass_back_back_bumper_L_small_glass2
+    3300012: Car_body_Car_Small_light_glass_front_front_bumper_L_small_glass1
+    3300014: car_body_lp_uv_RetopoGroup1
+    3300016: car_left_wheel_lp_uv_RetopoGroup002
+    3300018: car_left_wheel_lp_uv_RetopoGroup003
+    3300020: car_left_wheel_lp_uv_RetopoGroup004
+    3300022: car_left_wheel_lp_uv_RetopoGroup1
+    3300024: front_window_Windows_Car_body_Car
+    3300026: polySurface3_polySurface002
+    3300028: polySurface3_polySurface1
+    3300030: polySurface5_polySurface4_polySurface002
+    3300032: polySurface5_polySurface4_polySurface1
+    3300034: Windows_Car_body_Car_back_window
+    3300036: Windows_Car_body_Car_left_window_small
+    3300038: Windows_Car_body_Car_right_window_small
+    4300000: car_body_lp_uv_RetopoGroup1
+    4300002: polySurface5_polySurface4_polySurface1
+    4300004: polySurface5_polySurface4_polySurface002
+    4300006: car_left_wheel_lp_uv_RetopoGroup1
+    4300008: car_left_wheel_lp_uv_RetopoGroup002
+    4300010: car_left_wheel_lp_uv_RetopoGroup003
+    4300012: car_left_wheel_lp_uv_RetopoGroup004
+    4300014: polySurface3_polySurface1
+    4300016: front_window_Windows_Car_body_Car
+    4300018: Windows_Car_body_Car_back_window
+    4300020: Windows_Car_body_Car_left_window_small
+    4300022: Windows_Car_body_Car_right_window_small
+    4300024: Car_body_Car_L_glass_Light_glass
+    4300026: Car_body_Car_Light_glass_R_glass
+    4300028: Car_body_Car_L_small_glass_Small_light_glass_front_front_bumper
+    4300030: Car_body_Car_Small_light_glass_front_front_bumper_L_small_glass1
+    4300032: Car_body_Car_L_small_glass_Small_light_glass_back_back_bumper
+    4300034: Car_body_Car_Small_light_glass_back_back_bumper_L_small_glass2
+    4300036: polySurface3_polySurface002
+    4300038: baggage_door
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
